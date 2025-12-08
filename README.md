@@ -16,7 +16,7 @@ To address this issue, we take a three-step approach:
 
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TAIHLS-Final-Project.git
+git clone https://github.com/pi271828/TAIHLS-Final-Project.git
 cd TAIHLS-Final-Project
 python -m venv .venv
 source .venv/bin/activate     
