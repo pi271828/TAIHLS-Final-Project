@@ -23,7 +23,3 @@ source .venv/bin/activate
 pip install -r requirements.txt
 notebooks/EMT_Transition.ipynb
 python src/emt_project.py
-
-
-
-
